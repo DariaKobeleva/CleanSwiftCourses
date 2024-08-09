@@ -13,7 +13,6 @@
 		208AB0022C6286BE006ADC98 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 208AB0012C6286BE006ADC98 /* Assets.xcassets */; };
 		208AB0052C6286BE006ADC98 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 208AB0042C6286BE006ADC98 /* Base */; };
 		208AB0132C628767006ADC98 /* CourseListPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 208AB00D2C628767006ADC98 /* CourseListPresenter.swift */; };
-		208AB0142C628767006ADC98 /* CourseListWorker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 208AB00E2C628767006ADC98 /* CourseListWorker.swift */; };
 		208AB0152C628767006ADC98 /* CourseListRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 208AB00F2C628767006ADC98 /* CourseListRouter.swift */; };
 		208AB0162C628767006ADC98 /* CourseListModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 208AB0102C628767006ADC98 /* CourseListModels.swift */; };
 		208AB0172C628767006ADC98 /* CourseListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 208AB0112C628767006ADC98 /* CourseListViewController.swift */; };
@@ -42,7 +41,6 @@
 		208AB0042C6286BE006ADC98 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		208AB0062C6286BE006ADC98 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		208AB00D2C628767006ADC98 /* CourseListPresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseListPresenter.swift; sourceTree = "<group>"; };
-		208AB00E2C628767006ADC98 /* CourseListWorker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseListWorker.swift; sourceTree = "<group>"; };
 		208AB00F2C628767006ADC98 /* CourseListRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseListRouter.swift; sourceTree = "<group>"; };
 		208AB0102C628767006ADC98 /* CourseListModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseListModels.swift; sourceTree = "<group>"; };
 		208AB0112C628767006ADC98 /* CourseListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CourseListViewController.swift; sourceTree = "<group>"; };
@@ -111,7 +109,6 @@
 				208AB0122C628767006ADC98 /* CourseListInteractor.swift */,
 				208AB00D2C628767006ADC98 /* CourseListPresenter.swift */,
 				208AB00F2C628767006ADC98 /* CourseListRouter.swift */,
-				208AB00E2C628767006ADC98 /* CourseListWorker.swift */,
 				208AB0102C628767006ADC98 /* CourseListModels.swift */,
 				208AB0392C628D0D006ADC98 /* CourseListConfigurator .swift */,
 			);
@@ -268,7 +265,6 @@
 				208AB0262C6287F4006ADC98 /* CourseDetailsInteractor.swift in Sources */,
 				208AB03A2C628D0D006ADC98 /* CourseListConfigurator .swift in Sources */,
 				208AB0132C628767006ADC98 /* CourseListPresenter.swift in Sources */,
-				208AB0142C628767006ADC98 /* CourseListWorker.swift in Sources */,
 				208AB0152C628767006ADC98 /* CourseListRouter.swift in Sources */,
 				208AB0162C628767006ADC98 /* CourseListModels.swift in Sources */,
 				208AB0172C628767006ADC98 /* CourseListViewController.swift in Sources */,
